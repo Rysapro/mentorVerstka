@@ -1,0 +1,183 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	color: black;
+	font-size: 16px;
+	position: absolute;
+	left: 122px;
+	right: 12px;
+}
+ul, li {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+.about{
+	width: 1116px;
+	margin: 0 auto;
+}
+.container{
+	width: 1116px;
+	margin: 0 auto;
+}
+.logoName{
+	margin-right: 310px;
+}
+
+.header {
+	background: url(img/headerMenu.jpg) no-repeat center top / cover;
+}
+header a {
+	color: #000000;
+}
+.menu {
+	display: flex;
+}
+.menu li a {
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 15px;
+}
+.menu li {
+	margin-right: 40px;
+}
+.nav {
+	display: flex;
+	align-items: center;
+	padding-top: 16px;
+	padding-bottom: 18px;
+}
+h1, h2, h3, h4, h5, h6 {
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+}
+.shopBag{
+	margin-left: auto;
+}
+.PL{
+	margin-top: 35px;
+	color: #6CA751;
+}
+.deskRigt{
+	width: 500px;
+}
+.botton{
+	color: white;
+	text-decoration: none;
+	background: #6CA751;
+	border-radius: 4px;	
+	font-style: 17px;
+	padding: 7px;
+	margin-bottom: 26px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.gallery1 {
+	margin-top: 46px;
+	display: flex;
+	justify-content: space-between;
+}
+.footo{
+	background: url(img/headerMenu.jpg) no-repeat center top / cover;
+	border-radius: 15px;
+}
+.fotohead{
+	padding: 30px;
+	background: url(img/headerMenu.jpg) no-repeat center top / cover;
+	margin-top: 63px;
+}
+.skidka{
+	color: #588941;
+	font-size: 24px;
+
+}
+.fotto2{
+	margin-top: 75px;
+	display: flex;
+	justify-content: space-between;
+}
+.fotto2a1{
+	Text-align: center;
+	
+	display: flex;
+	
+}
+.textFotto{
+	position: relative;
+    color: white;
+}
+.textForFoto6{
+	position: absolute;
+	text-align: left;
+}
+.fotto3{
+	margin-top: 99px;
+	display: flex;
+	justify-content: space-between;
+}
+.fottohead2{
+	background: url(img/headerMenu.jpg) no-repeat center top / cover;
+	margin-top: 55px;
+}
+.fottoinfo{
+	display: flex;
+	justify-content: space-between;
+	Text-align: center;
+}
+.star{
+	
+	font-size: 40px;
+	color: #588941;
+	padding: 24px;
+	Text-align: center;
+
+
+}
+.botton2{
+
+}
+
+.fottohead3{
+	background: url(img/headerMenu.jpg) no-repeat center top / cover;
+
+}
+.gallery3{
+	display: flex;
+	
+	
+}
+.end{
+	background: url(img/endBlack.jpg) no-repeat center top / cover;
+	color: white;
+	margin-top: 110px;
+}
+.endLogo{
+	position: relative;
+	padding-top: 59px;
+	padding-left: 10px;
+
+}
+.endSoz{
+	width: 500px;
+	padding-left: 10px;
+
+}
+.botton2{
+	padding-left: 310px;
+	color: black;
+	text-decoration: none;
+	background: white;
+	border-radius: 4px;	
+	font-style: 17px;
+	padding: 7px;
+	margin-bottom: 26px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 97px;
+}
+.textForFoto6{
+	Text-align: right;
+
+}
